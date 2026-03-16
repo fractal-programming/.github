@@ -1,2 +1,2 @@
 
-Welcome!
+The power of fractal system architecture!
