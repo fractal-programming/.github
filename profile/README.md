@@ -1,2 +1,2 @@
 
-The power of fractal system architecture!
+Feel the power of fractal system architecture!
