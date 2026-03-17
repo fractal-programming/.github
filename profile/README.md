@@ -1,2 +1,2 @@
 
-Feel the power of fractal system architecture!
+Feel the power of Fractal System Architecture (FSA)
