@@ -13,4 +13,4 @@ By transforming complexity into uniform patterns and clear flows, systems become
 
 ---
 
-Feel the power of Fractal System Architecture (FSA)
+Feel the power of Fractal System Architecture (FSA)!
