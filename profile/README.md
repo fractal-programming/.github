@@ -1,4 +1,9 @@
 
+[![Blog](https://img.shields.io/badge/Blog-Fractal%20Programming-800080?style=plastic&logo=githubpages&logoColor=%2300FF00)](https://fractal-programming.github.io/blog/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-800080?style=plastic&logo=youtube&logoColor=%2300FF00)](https://www.youtube.com/@fractal-programming)
+[![Twitch Status](https://img.shields.io/twitch/status/Naegolus?label=twitch.tv%2FNaegolus&logo=Twitch&logoColor=%2300FF00&style=plastic&color=purple)](https://twitch.tv/Naegolus)
+[![Discord](https://img.shields.io/discord/960639692213190719?style=plastic&color=purple&logo=discord)](https://discord.gg/euRHNAy5vu)
+
 ## Fractal System Architecture (FSA)
 
 FSA is a design approach where systems are built from uniform, self-similar processes.
